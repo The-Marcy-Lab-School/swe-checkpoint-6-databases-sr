@@ -6,7 +6,7 @@ Answer each question below in complete sentences. Aim for 3–5 sentences per an
 
 ## Question 1
 
-What is the difference between **authentication** and **authorization**? Give a concrete example of each in the context of a fullstack web application.
+What is the difference between **authentication** and **authorization**? Give a concrete example of how a user would encounter each in the context of a fullstack web application.
 
 **Your answer:**
 
@@ -14,7 +14,7 @@ What is the difference between **authentication** and **authorization**? Give a 
 
 ## Question 2
 
-Why should passwords **never** be stored as plaintext in a database? What technique do we use instead, and how does it allow a server to verify a password without ever storing the original?
+Why should passwords **never** be stored as plaintext in a database? Explain what hashing is and its key properties that allow a server to verify a password without ever storing the original?
 
 **Your answer:**
 
@@ -22,7 +22,7 @@ Why should passwords **never** be stored as plaintext in a database? What techni
 
 ## Question 3
 
-What is a **session**? What is a **cookie**? How do they work together to keep a user "logged in" across multiple HTTP requests?
+What are **session cookies**? How do they work together to keep a user "logged in" across multiple HTTP requests?
 
 **Your answer:**
 
@@ -30,7 +30,7 @@ What is a **session**? What is a **cookie**? How do they work together to keep a
 
 ## Question 4
 
-A frontend can hide a "Delete Account" button from users who aren't logged in. Why isn't that enough to protect the `DELETE /api/users/:id` route on the server? What does the backend do instead?
+A frontend can hide a "Delete Account" button from users who aren't logged in. Why isn't that enough to protect the `DELETE /api/users/:id` route on the server? What does the backend do to protect against this?
 
 **Your answer:**
 
@@ -51,21 +51,13 @@ pool.query(`SELECT * FROM users WHERE username = '${username}'`);
 
 ## Question 6
 
-When should a server respond with **`401 Unauthorized`** vs **`403 Forbidden`**? Describe the condition that triggers each and give an example scenario for each.
+What problem does the **`/api/auth/me`** endpoint pattern solve? What does it return and when does the frontend call it?
 
 **Your answer:**
 
 ---
 
 ## Question 7
-
-What is the **`/api/auth/me`** endpoint pattern? What does it return, when does the frontend call it, and what problem does it solve for single-page applications?
-
-**Your answer:**
-
----
-
-## Question 8
 
 When you add a new **user-owned resource** (for example, bookmarks) to an existing fullstack application, which layers of the app need to change? List each layer and briefly describe what changes at that layer.
 
