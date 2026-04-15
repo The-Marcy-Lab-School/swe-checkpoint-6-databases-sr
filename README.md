@@ -28,19 +28,19 @@ Answer each question in `short-response.md` in **complete sentences**. Aim for *
 
 ---
 
-## Grading (27 points)
+## Grading (24 points)
 
-**Technical Score:** Each of the 8 responses will be evaluated out of **3 points** based on technical accuracy and precision.
+**Technical Score:** Each of the 7 responses will be evaluated out of **3 points** based on technical accuracy and precision.
 
-| Score | Description |
-| ----- | ----------- |
-| 3     | Accurate, specific, and uses correct terminology from the lessons |
+| Score | Description                                                                |
+| ----- | -------------------------------------------------------------------------- |
+| 3     | Accurate, specific, and uses correct terminology from the lessons          |
 | 2     | Mostly correct but vague, missing a key detail, or uses imprecise language |
-| 1     | Partially correct but contains a significant misconception |
-| 0     | Incorrect, off-topic, or missing |
+| 1     | Partially correct but contains a significant misconception                 |
+| 0     | Incorrect, off-topic, or missing                                           |
 
 **Writing Quality Score:** The overall submission will receive up to **3 points** for writing quality — grammar, clarity, and sentence structure across all responses.
 
-**Total: 8 questions × 3 pts + 3 writing pts = 27 points**
+**Total: 7 questions × 3 pts + 3 writing pts = 24 points**
 
 > **Any submission with typos, grammar mistakes, or other distracting errors will be marked incomplete and must be resubmitted.**
