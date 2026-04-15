@@ -30,7 +30,7 @@ Answer each question in `short-response.md` in **complete sentences**. Aim for *
 
 ## Grading (21 points)
 
-**Technical Score:** Each of the 7 responses will be evaluated out of **3 points** based on technical accuracy and precision.
+**Technical Score:** Each of the responses will be evaluated out of **3 points** based on technical accuracy and precision.
 
 | Score | Description                                                                |
 | ----- | -------------------------------------------------------------------------- |
