@@ -56,9 +56,3 @@ What problem does the **`/api/auth/me`** endpoint pattern solve? What does it re
 **Your answer:**
 
 ---
-
-## Question 7
-
-When you add a new **user-owned resource** (for example, bookmarks) to an existing fullstack application, which layers of the app need to change? List each layer and briefly describe what changes at that layer.
-
-**Your answer:**

@@ -28,7 +28,7 @@ Answer each question in `short-response.md` in **complete sentences**. Aim for *
 
 ---
 
-## Grading (24 points)
+## Grading (21 points)
 
 **Technical Score:** Each of the 7 responses will be evaluated out of **3 points** based on technical accuracy and precision.
 
@@ -41,6 +41,6 @@ Answer each question in `short-response.md` in **complete sentences**. Aim for *
 
 **Writing Quality Score:** The overall submission will receive up to **3 points** for writing quality — grammar, clarity, and sentence structure across all responses.
 
-**Total: 7 questions × 3 pts + 3 writing pts = 24 points**
+**Total: 6 questions × 3 pts + 3 writing pts = 21 points**
 
 > **Any submission with typos, grammar mistakes, or other distracting errors will be marked incomplete and must be resubmitted.**
