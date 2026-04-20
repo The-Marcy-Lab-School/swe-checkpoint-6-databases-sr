@@ -22,7 +22,7 @@ Why should passwords **never** be stored as plaintext in a database? Explain wha
 
 ## Question 3
 
-What are **session cookies**? How do they work together to keep a user "logged in" across multiple HTTP requests?
+Explain what it means when we say that "HTTP is stateless"? Explain why cookies are necessary in order to keep users logged-in across multiple sessions and how a server and a client work together to achieve this functionality.
 
 **Your answer:**
 
@@ -30,7 +30,7 @@ What are **session cookies**? How do they work together to keep a user "logged i
 
 ## Question 4
 
-A frontend can hide a "Delete Account" button from users who aren't logged in. Why isn't that enough to protect the `DELETE /api/users/:id` route on the server? What does the backend do to protect against this?
+A frontend can hide a "Delete Account" button from users who aren't logged in. Why isn't that enough to protect the `DELETE /api/users/:id` route on the server? What are the two layers of protection that the backend implements to protect against this?
 
 **Your answer:**
 
@@ -51,7 +51,7 @@ pool.query(`SELECT * FROM users WHERE username = '${username}'`);
 
 ## Question 6
 
-What problem does the **`/api/auth/me`** endpoint pattern solve? What does it return and when does the frontend call it?
+What problem does the **`/api/auth/me`** endpoint pattern solve? When does the frontend call it and what does it return?
 
 **Your answer:**
 
